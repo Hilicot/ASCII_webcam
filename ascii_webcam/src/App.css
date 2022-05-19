@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.text {
+  white-space:pre-wrap;
+  font-family:monospace;
+  letter-spacing: 0.1em;
+  line-height: 0.8em;
+  font-size: 1em;
+  font-weight: 1000;
+}
+
